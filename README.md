@@ -34,7 +34,7 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 - [Vendure E-Commerce on Google Cloud Run](https://martijn-brug.medium.com/vendure-ecommerce-on-google-cloud-run-225b26c8133a)
 
 ### Plugins
-- TODO...
+- [Bitcoin Lightning CLINK Plugin](https://github.com/WoompaLoompa/vendure-clink) - Accept Bitcoin Lightning payments via the CLINK protocol (Nostr-native static payment codes). Includes BTC price oracle, per-channel configuration, and HTTP webhook fallback.
 
 ### Built with Vendure
 - [CB Made In Italy](https://cbmadeinitaly.com) - An online store for an italian luxury footwear brand. Built using Vendure + Vue Storefront.
